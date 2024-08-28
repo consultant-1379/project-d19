@@ -1,0 +1,31 @@
+:host{
+  display: block;
+}
+
+.team-search{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.create-member{
+    display: inline-grid;
+    padding: 5px;
+}
+.display-names{
+    height: 300px
+}
+.search-button{
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.category-buttons{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+
+.category-table{
+    background: #4e4e4e;
+}

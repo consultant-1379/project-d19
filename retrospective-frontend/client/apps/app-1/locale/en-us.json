@@ -1,0 +1,11 @@
+{
+  "APP_DEFAULT_TEXT": "Your app markup goes here",
+  "APP_1": "Retrospective",
+  "SUBTITLE_APP_1": "Subtitle One",
+  "CONTAINER_TITLE": "Retrospective Tool",
+  "CONTAINER_TITLE_SHORT": "Retro",
+  "MENU_TITLE": "Menu",
+  "MENU": {
+    "APP_1": "Retrospective"
+  }
+}
